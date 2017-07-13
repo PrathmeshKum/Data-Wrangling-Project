@@ -1,2 +1,2 @@
 # Data-Wrangling-Project
-Slat Lake City area data wrangling using SQL
+Salt Lake City area data wrangling using SQL
